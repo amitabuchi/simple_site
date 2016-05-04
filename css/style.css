@@ -22,3 +22,7 @@ button {
 .skyblue {
 	background: skyblue !important;
 }
+
+.title-white {
+	color: white; !important;
+}
